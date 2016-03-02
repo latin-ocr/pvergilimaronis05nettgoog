@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pvergilimaronis05nettgoog/pvergilimaronis05nettgoog_0008.png"; bbox 0 0 3117 5009; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1682 1527 1836 1680">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1682 1527 1836 1680">
+     <span class='ocr_line' id='line_1_1' title="bbox 1682 1527 1836 1573; baseline -0.026 0"><span class='ocrx_word' id='word_1_1' title='bbox 1682 1527 1836 1573; x_wconf 60' lang='lat' dir='ltr'><strong>Ovi»</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1767 1635 1828 1680; baseline 0.066 -4"><span class='ocrx_word' id='word_1_2' title='bbox 1767 1635 1828 1680; x_wconf 73' lang='grc' dir='ltr'>Η</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1556 2312 1797 2351">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1556 2312 1797 2351">
+     <span class='ocr_line' id='line_1_3' title="bbox 1556 2312 1797 2351; baseline 0.008 -2"><span class='ocrx_word' id='word_1_3' title='bbox 1556 2312 1765 2349; x_wconf 58' lang='lat' dir='ltr'>Dounon</span> <span class='ocrx_word' id='word_1_4' title='bbox 1782 2313 1797 2351; x_wconf 86' lang='lat'>:</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1091 2397 2270 2490">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1091 2397 2270 2490">
+     <span class='ocr_line' id='line_1_4' title="bbox 1091 2397 2270 2436; baseline 0.001 -8"><span class='ocrx_word' id='word_1_5' title='bbox 1091 2398 1282 2428; x_wconf 68' lang='lat' dir='ltr'><strong>Pmm</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1307 2397 1363 2428; x_wconf 71' lang='lat' dir='ltr'><strong>tt</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1389 2397 1590 2428; x_wconf 68' lang='lat' dir='ltr'><strong>wmuu</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1615 2398 1791 2429; x_wconf 65' lang='lat' dir='ltr'><strong>aevu</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1814 2398 1908 2428; x_wconf 72' lang='lat' dir='ltr'><strong>Am&gt;</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1932 2398 2049 2436; x_wconf 67' lang='lat'><strong>8088,</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 2075 2398 2270 2435; x_wconf 73' lang='lat' dir='ltr'><strong>mmm),</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1220 2458 2152 2490; baseline 0 -1"><span class='ocrx_word' id='word_1_12' title='bbox 1220 2458 1452 2489; x_wconf 63' lang='lat' dir='ltr'><strong>numan</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1478 2458 1641 2489; x_wconf 66' lang='grc' dir='ltr'><strong>ΒΤΒΙΠ</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1667 2458 1761 2489; x_wconf 62' lang='lat' dir='ltr'><strong>ul&gt;</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1785 2458 1984 2489; x_wconf 70' lang='lat' dir='ltr'>alume</span> <span class='ocrx_word' id='word_1_16' title='bbox 2010 2459 2152 2490; x_wconf 70' lang='lat' dir='ltr'>onom.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
